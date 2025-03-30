@@ -1,5 +1,7 @@
 # jenkins-practice
 
+[![Build Status](http://ec2-13-202-249-110.ap-south-1.compute.amazonaws.com/job/jenkins-practice/badge/icon)](http://ec2-13-202-249-110.ap-south-1.compute.amazonaws.com/job/jenkins-practice/)
+
 Jenkins can retrieve pipeline configurations from version control systems like GitHub. In turn, GitHub can connect send webhooks to Jenkins that trigger jobs when a change is pushed to a repo.
 
 To demonstrate connecting Jenkins and GitHub, the following need to be in place:
